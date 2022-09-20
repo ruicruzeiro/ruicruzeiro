@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**ruicruzeiro/ruicruzeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Hi everybody!
+### Hi everybody!
 
 - 📊 I’m currently carving a path in Data Science;
 - 🌱 Learning Tableau and brushing up on SQL and Git;
@@ -28,3 +23,5 @@ Hi everybody!
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
           
 </div>
+
+  ##
