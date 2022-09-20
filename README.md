@@ -13,17 +13,13 @@
 </div>
 
 <div style="display: inline_block"><br>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"/>
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-          
+  <img align="center" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <img align="center" height="60" width="80" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img align="center" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"/>
+  <img align="center" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  <img align="center" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
+  <img align="center" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">          
 </div>
 
 
