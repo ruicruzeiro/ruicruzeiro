@@ -5,7 +5,7 @@
 - 🤝 I’m looking to collaborate on Data Analytics or Data Science projects;
 - 🌍 I’d love to use these skills on social and environmental projects;
 - 💬 Ask me about real estate and appraisal techniques!
-- 💬 Fun fact: T-shirt is short for Tyrannosaurus Shirt.
+- ❓ Fun fact: T-shirt is short for Tyrannosaurus Shirt.
 
 <div align="center">
   <a href="https://github.com/ruicruzeiro">
