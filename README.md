@@ -1,7 +1,7 @@
 ### Hi everybody!
 
 - 📊 I’m currently carving a path in Data Science;
-- 🌱 Learning Tableau and brushing up on SQL and Git;
+- 🌱 Learning Tableau, PowerBI and Agile methodologies;
 - 🤝 I’m looking to collaborate on Data Analytics or Data Science projects;
 - 🌍 I’d love to use these skills on social, cultural and environmental projects;
 - 💬 Ask me about real estate and appraisal techniques!
