@@ -3,7 +3,7 @@
 - 📊 I’m currently carving a path in Data Science;
 - 🌱 Studying Flask and Agile methodologies;
 - 🤝 I’m looking to collaborate on Data Analytics or Data Science projects;
-- 🌍 I’d love to use these skills on social, cultural and environmental projects;
+- 🌍 I’d love to use these skills on social, cultural, and environmental projects;
 - 💬 Ask me about real estate and appraisal techniques!
 - ❓ Fun fact: T-shirt is short for Tyrannosaurus Shirt.
 
