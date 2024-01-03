@@ -1,12 +1,3 @@
-### Hi everybody!
-
-- 📊 I’m currently carving a path in Data Science;
-- 🌱 Studying Flask and Agile methodologies;
-- 🤝 I’m looking to collaborate on Data Analytics or Data Science projects;
-- 🌍 I’d love to use these skills on social, cultural, and environmental projects;
-- 💬 Ask me about real estate and appraisal techniques!
-- ❓ Fun fact: T-shirt is short for Tyrannosaurus Shirt.
-
 <div align="center">
   <a href="https://github.com/ruicruzeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruicruzeiro&show_icons=true&theme=light&include_all_commits=true&count_private=true" align="left"/>
